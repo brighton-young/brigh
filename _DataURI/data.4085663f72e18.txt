@@ -1,0 +1,1 @@
+chrome-extension://gpmlagmcbcnjhkdjiofoenkfbaclgjkk/content-scripts/identity-protection/main.js
